@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedSiyad 😃
 - 👀 I’m interested in Cyber Security 🔒, Data 📊 and Software Development 💻
-- 🌱 I’m currently studying BSc Computer Science 🤓
+- 🌱 I’m currently studying BSc Computer Science
 - 📫 You can contact me by 📥: mohamedsiyad06@gmail.com
 
 <!---
