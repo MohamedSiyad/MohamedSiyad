@@ -8,7 +8,7 @@ I’m a Computer Science graduate and teacher now transitioning into Cloud Archi
 - 🛠️ Learning Infrastructure as Code (Terraform & AWS CDK)
 
 ## 🧠 AWS Certifications
-- ✅ AWS Certified Solutions Architect – Associate *(in progress)*
+- 🔄 AWS Certified Solutions Architect – Associate *(in progress)*
 - 🔄 AWS Certified Solutions Architect – Professional *(in progress)*
 
 I'm always open to opportunities in:
