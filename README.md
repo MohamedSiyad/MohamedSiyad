@@ -3,16 +3,17 @@
 I’m a Computer Science graduate and teacher now transitioning into Cloud Architecture — focused on building secure, scalable solutions on AWS.
 
 ## 🚀 Currently Working On
-- 📘 Studying for **AWS Solutions Architect – Associate and Professional**
+- 📘 Studying for **AWS Solutions Architect – Associate**
+- 📘 Planning to also study for **AWS Certified DevOps Engineer - Professional**
 - 🔧 Building AWS projects using **EC2**, **S3**, **Lambda**, **RDS**, and **CloudFront**
 - 🛠️ Learning Infrastructure as Code (Terraform & AWS CDK)
 
 ## 🧠 AWS Certifications
 - 🔄 AWS Certified Solutions Architect – Associate *(in progress)*
-- 🔄 AWS Certified Solutions Architect – Professional *(in progress)*
+- 🔄 AWS Certified DevOps Engineer *(in progress)*
 
 I'm always open to opportunities in:
-**Cloud Consulting • Solutions Architecture • Cloud Support • Pre-Sales Engineering**
+**Cloud Consulting • Solutions Architecture • Cloud Engineer • DevOps Engineer • Pre-Sales Engineering • Technical Account Engineer** 
 
 
 <!---
